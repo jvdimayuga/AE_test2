@@ -300,16 +300,4 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-378fbf68d07b4e81b0d218dece8b6b0b.xml#id-378fbf68d07b4e81b0d218dece8b6b0b"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0fad4e06e8fc4f73814e8713025db456">
-    <bounds
-        x="94"
-        y="228"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Gap"
-        href="Gap_id-41ee7d133a024921b470e56438c0ad5d.xml#id-41ee7d133a024921b470e56438c0ad5d"/>
-  </children>
 </archimate:ArchimateDiagramModel>
