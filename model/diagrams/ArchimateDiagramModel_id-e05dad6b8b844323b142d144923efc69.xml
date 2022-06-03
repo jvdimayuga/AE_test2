@@ -300,4 +300,15 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-378fbf68d07b4e81b0d218dece8b6b0b.xml#id-378fbf68d07b4e81b0d218dece8b6b0b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-de779e7db3404ea8b3ca5d2cb63ae280"
+      textAlignment="1"
+      content="NOTA">
+    <bounds
+        x="222"
+        y="20"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
